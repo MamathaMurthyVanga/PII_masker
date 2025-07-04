@@ -42,5 +42,5 @@ POST http://127.0.0.1:8000/docs/mask-pii
 ```
 
 
-
+![alt text](<Screenshot 2025-05-17 143452.png>)
 
