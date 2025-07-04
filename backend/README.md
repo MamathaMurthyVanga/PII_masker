@@ -1,4 +1,4 @@
-# 🛡️ PII Masker - FastAPI Backend, React Frontend
+# 🛡️ PII Masker - FastAPI Backend
 
 A FastAPI application that detects and masks Personally Identifiable Information (PII) from uploaded images using OCR and PII detection.
 
